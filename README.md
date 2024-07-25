@@ -27,7 +27,7 @@
 
 ### ✉️ Contact me:
 <div>
-  <a href="mailto:igorluiz@gec.inatel.br"><img src="https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" width="80"></a>
+  <a href="mailto:igorluiz@gec.inatel.br"><img src="https://img.shields.io/badge/Outlook-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" width="80"></a>
   <a href="https://www.linkedin.com/in/igor-luiz-rodrigues-3a5725206/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
 </div>
 
