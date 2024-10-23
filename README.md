@@ -4,7 +4,7 @@
 
 - 🎓 Degree in Computer Engineering
 - 📱 Working as a Back-End Engineer
-- 🎯 Looking to learn more about Python, Database and IA.
+- 🎯 Looking to learn more about Python, Data Science, Database and IA.
 
 <div align="center">
   <a href="https://github.com/igu1nho">
