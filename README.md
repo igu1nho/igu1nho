@@ -16,7 +16,7 @@
 ### 🛠 Languages and Tools:
 <div>
   <img align="left" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="left" alt="Power BI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" />
+  <img align="left" alt="Power BI" height="30" width="30" src="https://media.datacamp.com/legacy/v1714478776/re388xshtgihucfiiavf.png" />
   <img align="left" alt="Pandas" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
   <img align="left" alt="NumPy" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
   <img align="left" alt="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
