@@ -15,12 +15,15 @@
     
 ### 🛠 Languages and Tools:
 <div>
+  <img align="left" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="left" alt="Power BI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" />
+  <img align="left" alt="Pandas" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+  <img align="left" alt="NumPy" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+  <img align="left" alt="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img align="left" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="left" alt="C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="left" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img height="32" alt="GitHub" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
-  <img align="left" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Salesforce" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" />
 </div>
