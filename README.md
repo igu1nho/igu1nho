@@ -1,10 +1,10 @@
-## Hi there, I'm [Igor].
+## Olá é um prazer, me chamdo [Igor Luiz Rodrigues].
 
-### I'm a Computer Engineer 👨‍💻⚙️
+### Sou formado em Engenharia da Computação pelo INATEL 👨‍💻⚙️
 
-- 🎓 Degree in Computer Engineering
-- 📱 Working as a Back-End Engineer
-- 🎯 Looking to learn more about Python, Data Science, Database and IA.
+- 🎓 Bacharel em Engenharia da Computação.
+- 📱 Buscando Desafios no Desenvolvimento Back-End em Python e na Área de Ciência de Dados.
+- 🎯 Gosto de estudar e aprender mais sobre Python, Ciência de Dados, Inteligência Artificial, Power BI e Banco de Dados.
 
 <div align="center">
   <a href="https://github.com/igu1nho">
@@ -13,7 +13,7 @@
 </div>
 <img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igu1nho&theme=radical"/>
     
-### 🛠 Languages and Tools:
+### 🛠 Linguagens e Ferramentas:
 <div>
   <img align="left" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="left" alt="Power BI" height="30" width="30" src="https://media.datacamp.com/legacy/v1714478776/re388xshtgihucfiiavf.png" />
@@ -28,11 +28,11 @@
   <img align="left" alt="Salesforce" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" />
 </div>
 
-### ✉️ Contact me:
+### ✉️ Para Entrar em Contato:
 <div>
   <a href="mailto:igorluiz@gec.inatel.br"><img src="https://img.shields.io/badge/Contact Email-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" width="80"></a>
   <a href="https://www.linkedin.com/in/igor-luiz-rodrigues-3a5725206/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
 </div>
 
 
-[Igor]: https://www.linkedin.com/in/igor-luiz-rodrigues-3a5725206/
+[Igor Luiz Rodrigues]: https://www.linkedin.com/in/igor-luiz-rodrigues-3a5725206/
