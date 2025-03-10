@@ -1,4 +1,4 @@
-## Olá é um prazer, me chamdo [Igor Luiz Rodrigues].
+## Olá é um prazer, me chamo [Igor Luiz Rodrigues].
 
 ### Sou formado em Engenharia da Computação pelo INATEL 👨‍💻⚙️
 
