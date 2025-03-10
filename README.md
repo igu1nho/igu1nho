@@ -3,8 +3,8 @@
 ### Sou formado em Engenharia da Computação pelo INATEL 👨‍💻⚙️
 
 - 🎓 Bacharel em Engenharia da Computação.
-- 📱 Buscando Desafios no Desenvolvimento Back-End em Python e na Área de Ciência de Dados.
-- 🎯 Gosto de estudar e aprender mais sobre Python, Ciência de Dados, Inteligência Artificial, Power BI e Banco de Dados.
+- 📱 Buscando Desafios no Desenvolvimento em Python e na Área de Ciência de Dados.
+- 🎯 Gosto de estudar e aprender mais sobre Python, Ciência de Dados, Inteligência Artificial, Aprendizado de Máquina, Power BI e Banco de Dados.
 
 <div align="center">
   <a href="https://github.com/igu1nho">
