@@ -35,4 +35,4 @@
 </div>
 
 
-[Igor Luiz Rodrigues]: https://www.linkedin.com/in/igor-luiz-rodrigues-3a5725206/
+[Igor Luiz Rodrigues]: https://www.linkedin.com/in/igor-rodrigues-dev/
