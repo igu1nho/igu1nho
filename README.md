@@ -31,7 +31,7 @@
 ### ✉️ Contact Me:
 <div>
   <a href="mailto:igorluiz@gec.inatel.br"><img src="https://img.shields.io/badge/Contact Email-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" width="80"></a>
-  <a href="https://www.linkedin.com/in/igor-luiz-rodrigues-3a5725206/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
+  <a href="https://www.linkedin.com/in/igor-luiz-rodrigues-3a5725206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 
